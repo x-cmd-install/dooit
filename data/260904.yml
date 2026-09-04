@@ -7,7 +7,7 @@ about:
   head: ba2a7ef
   archived: false
   latestVersion: v3.3.4
-  collectedAt: 2026-09-04T19:28:06Z
+  collectedAt: 2026-09-04T21:06:47Z
 timeline:
   created: 2022-04-19
   lastCommit: 2025-11-24
@@ -82,5 +82,38 @@ total:
   openIssue: 24
   commit: 2334
 ---
+path: /home/runner/.x-repo/github.com/dooit-org/dooit
+collectedAt: 2026-09-04T21:06:49Z
+loc:
+  Python:
+    code: 4989
+    comments: 129
+    blanks: 1660
+    files: 101
+  Nix:
+    code: 145
+    comments: 1
+    blanks: 16
+    files: 3
+  Toml:
+    code: 49
+    comments: 0
+    blanks: 6
+    files: 1
+  Json:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1565
+    blanks: 823
+    files: 20
+total:
+  code: 5371
+  comments: 1700
+  blanks: 2518
+  files: 126
 ---
 
