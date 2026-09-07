@@ -5,13 +5,13 @@ about:
   head: ba2a7ef
   archived: false
   latestVersion: "v3.3.4"
-  collectedAt: 2026-09-07T05:38:50Z
+  collectedAt: 2026-09-07T18:49:00Z
 timeline:
   created: 2022-04-19
   lastCommit: 2025-11-24
   lastRelease: 2025-11-29
 popularity:
-  star: 2945
+  star: 2946
   watcher: 18
   fork: 131
   release: 23
@@ -81,7 +81,7 @@ total:
   commit: 2334
 ---
 path: /home/runner/.x-repo/github.com/dooit-org/dooit
-collectedAt: 2026-09-07T05:38:52Z
+collectedAt: 2026-09-07T18:49:02Z
 loc:
   Python:
     code: 4989
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:38:52+00:00
+  collectedAt: 2026-09-07T18:49:02+00:00
   platform:
     darwin/arm64:
       name:  macos-dooit
