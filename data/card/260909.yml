@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.3.4"
   latestRelease: "v3.3.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:44:29Z
+  collectedAt: 2026-09-09T20:08:22Z
 timeline:
   created: 2022-04-19
   lastCommit: 2025-11-24
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-11-29
   lastPrerelease: 
 popularity:
-  star: 2946
+  star: 2948
   watcher: 18
   fork: 131
   release: 23
   contributor: 18
-  pullRequest: 77
+  pullRequest: 78
   issue: 175
 language:
   Python: 183118
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 1
     openIssue: 0
     commit: 0
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 2
     openIssue: 0
     commit: 0
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-13
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 2
     openIssue: 0
     commit: 0
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-14
     release: 1
     mergedPR: 4
-    openPR: 1
+    openPR: 2
     closedIssue: 4
     openIssue: 4
     commit: 1
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-19
     release: 12
     mergedPR: 18
-    openPR: 2
+    openPR: 3
     closedIssue: 34
     openIssue: 9
     commit: 961
 total:
   release: 23
   mergedPR: 55
-  openPR: 2
+  openPR: 3
   closedIssue: 151
   openIssue: 24
   commit: 2334
 ---
 path: /home/runner/.x-repo/github.com/dooit-org/dooit
-collectedAt: 2026-09-09T05:44:30Z
+collectedAt: 2026-09-09T20:08:24Z
 loc:
   Python:
     code: 4989
