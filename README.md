@@ -48,12 +48,12 @@ Total: **5,195** lines of code across **126** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 1 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 2 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 1 | 2 | 0 | 0 |
-| 360d | 2025-09-18 | 1 | 4 | 2 | 4 | 4 | 1 |
-| last720d | 2024-09-23 | 12 | 18 | 3 | 33 | 9 | 897 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 1 | 1 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 1 | 2 | 0 | 0 |
+| 360d | 2025-09-19 | 1 | 4 | 2 | 4 | 4 | 1 |
+| last720d | 2024-09-24 | 12 | 18 | 3 | 33 | 9 | 851 |
 
 ## Release assets
 
@@ -62,16 +62,6 @@ Total: **5,195** lines of code across **126** files in the top 5 languages.
 | [linux-dooit](https://github.com/dooit-org/dooit/releases/download/v3.3.4/linux-dooit) | 31.7 MiB | `other` |
 | [macos-dooit](https://github.com/dooit-org/dooit/releases/download/v3.3.4/macos-dooit) | 16.9 MiB | `native/darwin/x64` |
 | [windows-dooit.exe](https://github.com/dooit-org/dooit/releases/download/v3.3.4/windows-dooit.exe) | 17.9 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/dooit). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.3.4` | ✅ latest |
-| Nix unstable | `3.3.4` | ✅ latest |
-| Alpine edge | `3.3.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +72,4 @@ Install metadata for dooit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:48:45Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:01:30Z._
