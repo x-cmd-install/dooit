@@ -38,22 +38,22 @@ Total: **5,195** lines of code across **126** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,949 · **Forks**: 131 · **Open issues**: 175 · **Contributors**: 18
+- **Stars**: 2,950 · **Forks**: 130 · **Open issues**: 175 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 55 · **Open PRs**: 3 · **Closed issues**: 151 · **Open issues**: 24 · **Commits**: 2334
+- **Releases**: 23 · **Merged PRs**: 55 · **Open PRs**: 2 · **Closed issues**: 151 · **Open issues**: 24 · **Commits**: 2334
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 1 | 1 | 0 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last180d | 2026-03-21 | 0 | 0 | 1 | 2 | 0 | 0 |
-| 360d | 2025-09-22 | 1 | 4 | 2 | 4 | 4 | 1 |
-| last720d | 2024-09-27 | 12 | 18 | 3 | 31 | 9 | 809 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-03-22 | 0 | 0 | 0 | 2 | 0 | 0 |
+| 360d | 2025-09-23 | 1 | 4 | 1 | 4 | 4 | 1 |
+| last720d | 2024-09-28 | 12 | 18 | 2 | 31 | 9 | 790 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for dooit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:08:41Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:54:49Z._
